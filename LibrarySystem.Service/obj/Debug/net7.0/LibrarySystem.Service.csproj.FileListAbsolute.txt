@@ -1,0 +1,15 @@
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/bin/Debug/net7.0/LibrarySystem.Service.deps.json
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/bin/Debug/net7.0/LibrarySystem.Service.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/bin/Debug/net7.0/LibrarySystem.Service.pdb
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/bin/Debug/net7.0/LibrarySystem.Core.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/bin/Debug/net7.0/LibrarySystem.Core.pdb
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.csproj.AssemblyReference.cache
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.AssemblyInfoInputs.cache
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.AssemblyInfo.cs
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.csproj.CoreCompileInputs.cache
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.csproj.CopyComplete
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/refint/LibrarySystem.Service.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/LibrarySystem.Service.pdb
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/obj/Debug/net7.0/ref/LibrarySystem.Service.dll

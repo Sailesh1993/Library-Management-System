@@ -1,0 +1,6 @@
+LibrarySystem.Tests.src.Core.Tests.BookTest.Test1
+LibrarySystem.Tests.src.Core.Tests.BookTest.CompareCalculation
+LibrarySystem.Tests.src.Core.Tests.BookTest.CompareSubstraction
+LibrarySystem.Tests.src.Core.Tests.BookTest.CreateBook_ValidData_CreateNewBook
+LibrarySystem.Tests.src.Core.Tests.BookTest.CreateBook_InvalidData_ThrowError
+LibrarySystem.Tests.src.Core.Tests.BookTest.UpdateBook_MultipleData_ReturnUpdated

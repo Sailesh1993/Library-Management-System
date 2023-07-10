@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "LibrarySystem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LibrarySystem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibrarySystem.Core.dll": {}
+        }
+      },
+      "LibrarySystem.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "LibrarySystem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibrarySystem.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibrarySystem.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibrarySystem.Core/1.0.0": {
+      "type": "project",
+      "path": "../LibrarySystem.Core/LibrarySystem.Core.csproj",
+      "msbuildProject": "../LibrarySystem.Core/LibrarySystem.Core.csproj"
+    },
+    "LibrarySystem.Service/1.0.0": {
+      "type": "project",
+      "path": "../LibrarySystem.Service/LibrarySystem.Service.csproj",
+      "msbuildProject": "../LibrarySystem.Service/LibrarySystem.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "LibrarySystem.Core >= 1.0.0",
+      "LibrarySystem.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/saileshkarki/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/LibrarySystem.Controller.csproj",
+      "projectName": "LibrarySystem.Controller",
+      "projectPath": "/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/LibrarySystem.Controller.csproj",
+      "packagesPath": "/Users/saileshkarki/.nuget/packages/",
+      "outputPath": "/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/saileshkarki/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Core/LibrarySystem.Core.csproj": {
+              "projectPath": "/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Core/LibrarySystem.Core.csproj"
+            },
+            "/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/LibrarySystem.Service.csproj": {
+              "projectPath": "/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Service/LibrarySystem.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

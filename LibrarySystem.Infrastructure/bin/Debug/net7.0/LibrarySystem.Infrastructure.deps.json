@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LibrarySystem.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LibrarySystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "LibrarySystem.Infrastructure.dll": {}
+        }
+      },
+      "LibrarySystem.Core/1.0.0": {
+        "runtime": {
+          "LibrarySystem.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibrarySystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibrarySystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

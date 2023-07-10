@@ -1,0 +1,17 @@
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/bin/Debug/net7.0/LibrarySystem.Controller.deps.json
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/bin/Debug/net7.0/LibrarySystem.Controller.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/bin/Debug/net7.0/LibrarySystem.Controller.pdb
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/bin/Debug/net7.0/LibrarySystem.Core.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/bin/Debug/net7.0/LibrarySystem.Service.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/bin/Debug/net7.0/LibrarySystem.Service.pdb
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/bin/Debug/net7.0/LibrarySystem.Core.pdb
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.csproj.AssemblyReference.cache
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.AssemblyInfoInputs.cache
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.AssemblyInfo.cs
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.csproj.CoreCompileInputs.cache
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.csproj.CopyComplete
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/refint/LibrarySystem.Controller.dll
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/LibrarySystem.Controller.pdb
+/Users/saileshkarki/Desktop/Integrify_Assignment/Backend-Unit-Testing/LibrarySystem/LibrarySystem.Controller/obj/Debug/net7.0/ref/LibrarySystem.Controller.dll
